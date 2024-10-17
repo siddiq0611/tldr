@@ -25,7 +25,7 @@
 
 - Liste Dateien nach sortiert nach Dateigröße mit größter beginnend auf:
 
-`ls -lS`
+`ls -lSR`
 
 - Liste alle Dateien sortiert nach dem Änderungsdatum mit ältester beginnend auf:
 
@@ -33,4 +33,4 @@
 
 - Liste nur Verzeichnisse auf:
 
-`ls -d {{*/}}`
+`ls -d */`
